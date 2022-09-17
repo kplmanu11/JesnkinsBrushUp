@@ -1,0 +1,4 @@
+pages\ForgotPassword.class
+pages\LoginPage.class
+pages\HomePage.class
+utility\base.class
