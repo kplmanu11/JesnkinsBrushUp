@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-17T20:04:34 NPT" name="Default suite" finished-at="2022-09-17T20:05:02 NPT" duration-ms="28131">
+  <suite started-at="2022-09-17T20:12:57 NPT" name="Suite" finished-at="2022-09-17T20:13:28 NPT" duration-ms="31678">
     <groups>
     </groups>
-    <test started-at="2022-09-17T20:04:34 NPT" name="Default test" finished-at="2022-09-17T20:05:02 NPT" duration-ms="28131">
+    <test started-at="2022-09-17T20:12:57 NPT" name="Test" finished-at="2022-09-17T20:13:28 NPT" duration-ms="31678">
       <class name="tests.LoginPageTest">
-        <test-method is-config="true" signature="initializeThings()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:04:34 NPT" name="initializeThings" finished-at="2022-09-17T20:04:42 NPT" duration-ms="8823" status="PASS">
+        <test-method is-config="true" signature="initializeThings()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:12:57 NPT" name="initializeThings" finished-at="2022-09-17T20:13:05 NPT" duration-ms="8264" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeThings -->
-        <test-method signature="verifyTheForgotPasswordLinkWorkingProperly()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:04:42 NPT" name="verifyTheForgotPasswordLinkWorkingProperly" finished-at="2022-09-17T20:04:45 NPT" duration-ms="2431" status="PASS">
+        <test-method signature="verifyTheForgotPasswordLinkWorkingProperly()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:13:05 NPT" name="verifyTheForgotPasswordLinkWorkingProperly" finished-at="2022-09-17T20:13:07 NPT" duration-ms="2172" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTheForgotPasswordLinkWorkingProperly -->
-        <test-method is-config="true" signature="teadDown()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:04:45 NPT" name="teadDown" finished-at="2022-09-17T20:04:45 NPT" duration-ms="247" status="PASS">
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:13:07 NPT" name="teadDown" finished-at="2022-09-17T20:13:07 NPT" duration-ms="235" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teadDown -->
-        <test-method is-config="true" signature="initializeThings()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:04:45 NPT" name="initializeThings" finished-at="2022-09-17T20:04:51 NPT" duration-ms="5933" status="PASS">
+        <test-method is-config="true" signature="initializeThings()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:13:07 NPT" name="initializeThings" finished-at="2022-09-17T20:13:14 NPT" duration-ms="6835" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeThings -->
-        <test-method signature="verifyTheLoginLogoIsDisplayed()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:04:51 NPT" name="verifyTheLoginLogoIsDisplayed" finished-at="2022-09-17T20:04:52 NPT" duration-ms="505" status="PASS">
+        <test-method signature="verifyTheLoginLogoIsDisplayed()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:13:14 NPT" name="verifyTheLoginLogoIsDisplayed" finished-at="2022-09-17T20:13:15 NPT" duration-ms="563" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTheLoginLogoIsDisplayed -->
-        <test-method is-config="true" signature="teadDown()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:04:52 NPT" name="teadDown" finished-at="2022-09-17T20:04:52 NPT" duration-ms="261" status="PASS">
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:13:15 NPT" name="teadDown" finished-at="2022-09-17T20:13:15 NPT" duration-ms="371" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teadDown -->
-        <test-method is-config="true" signature="initializeThings()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:04:52 NPT" name="initializeThings" finished-at="2022-09-17T20:04:58 NPT" duration-ms="5963" status="PASS">
+        <test-method is-config="true" signature="initializeThings()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:13:15 NPT" name="initializeThings" finished-at="2022-09-17T20:13:23 NPT" duration-ms="7808" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeThings -->
-        <test-method signature="verifyTheUserIsAbleToLoginProperly()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:04:58 NPT" name="verifyTheUserIsAbleToLoginProperly" finished-at="2022-09-17T20:05:01 NPT" duration-ms="3658" status="PASS">
+        <test-method signature="verifyTheUserIsAbleToLoginProperly()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:13:23 NPT" name="verifyTheUserIsAbleToLoginProperly" finished-at="2022-09-17T20:13:28 NPT" duration-ms="5037" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTheUserIsAbleToLoginProperly -->
-        <test-method is-config="true" signature="teadDown()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:05:01 NPT" name="teadDown" finished-at="2022-09-17T20:05:02 NPT" duration-ms="268" status="PASS">
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:tests.LoginPageTest@7b9a4292]" started-at="2022-09-17T20:13:28 NPT" name="teadDown" finished-at="2022-09-17T20:13:28 NPT" duration-ms="336" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teadDown -->
       </class> <!-- tests.LoginPageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
