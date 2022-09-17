@@ -1,4 +1,5 @@
 pages\ForgotPassword.class
+pages\UserManagementPage.class
 pages\LoginPage.class
 pages\HomePage.class
 utility\base.class
